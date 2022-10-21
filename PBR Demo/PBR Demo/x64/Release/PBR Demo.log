@@ -1,0 +1,45 @@
+﻿  glad.c
+  Shader.cpp
+  Source.cpp
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(46,3): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(46,13): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(46,23): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(46,33): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(46,43): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(47,3): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(47,13): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(47,23): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(47,33): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(47,43): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(48,3): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(48,15): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(48,27): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(48,39): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(48,51): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(49,3): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(49,16): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(49,29): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(49,42): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(49,55): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(50,3): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(50,9): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(50,15): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(50,21): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(50,27): warning C4838: conversion from 'unsigned int' to 'int' requires a narrowing conversion
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(145,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(230,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(269,30): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(299,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(302,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(305,51): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(349,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(350,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(354,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(355,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(357,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(358,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\PBR Demo\Source.cpp(366,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  stb_image.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+MSVCRT.lib(exe_winmain.obj) : error LNK2001: unresolved external symbol WinMain
+E:\Documents\University\Year3\GCP\PBR Project\PBR Demo\x64\Release\PBR Demo.exe : fatal error LNK1120: 1 unresolved externals

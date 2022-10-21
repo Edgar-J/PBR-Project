@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Documents\University\Year3\GCP\PBR Demo\glfw-3.3.4\build\CMakeFiles\de5d34db7aaa0e6c309037d98289a01a\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\Documents\University\Year3\GCP\PBR Demo\glfw-3.3.4\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\Documents\University\Year3\GCP\PBR Demo\glfw-3.3.4\build\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{362BD38F-C41D-3CAD-B1DA-7F04611DDFE3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

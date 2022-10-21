@@ -1,0 +1,10 @@
+^E:\DOCUMENTS\UNIVERSITY\YEAR3\GCP\PBR DEMO\GLFW-3.3.4\BUILD\CMAKEFILES\DE5D34DB7AAA0E6C309037D98289A01A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SE:/Documents/University/Year3/GCP/PBR Demo/glfw-3.3.4" "-BE:/Documents/University/Year3/GCP/PBR Demo/glfw-3.3.4/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "E:/Documents/University/Year3/GCP/PBR Demo/glfw-3.3.4/build/GLFW.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

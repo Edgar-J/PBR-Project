@@ -1,0 +1,6 @@
+﻿  Building Custom Rule E:/Documents/University/Year3/GCP/PBR Demo/glfw-3.3.4/tests/CMakeLists.txt
+  iconify.c
+  getopt.c
+  glad_gl.c
+  Generating Code...
+  iconify.vcxproj -> E:\Documents\University\Year3\GCP\PBR Demo\glfw-3.3.4\build\tests\Debug\iconify.exe
